@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Astoria",
+        "location": "Paris",
+        "area": "300",
+        "img": "https://res.cloudinary.com/dfwwzfev2/image/upload/v1645695714/buildings-app/astoria_no2juh.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Windsor",
+        "location": "London",
+        "area": "200",
+        "img": "https://res.cloudinary.com/dfwwzfev2/image/upload/v1645695714/buildings-app/windsor_dba27y.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sofia Estate",
+        "location": "Sofia",
+        "area": "400",
+        "img": "https://res.cloudinary.com/dfwwzfev2/image/upload/v1645695714/buildings-app/sofiaEstate_kbrirr.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Varna Palace",
+        "location": "Varna",
+        "area": "350",
+        "img": "https://res.cloudinary.com/dfwwzfev2/image/upload/v1645695715/buildings-app/varnapalace_mfhrnd.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Blue Lagoon",
+        "location": "Amsterdam",
+        "area": "150",
+        "img": "https://res.cloudinary.com/dfwwzfev2/image/upload/v1645695714/buildings-app/blueLagoon_xxdw92.jpg"
+    }
+]
