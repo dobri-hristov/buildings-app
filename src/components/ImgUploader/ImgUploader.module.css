@@ -1,0 +1,14 @@
+.btn {
+    color: blue;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    height: 45px;
+    font-weight: 600;
+} 
+
+.btn:hover {
+    background: white;
+    border: 1px solid blue;
+}

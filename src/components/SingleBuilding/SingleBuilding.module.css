@@ -1,0 +1,38 @@
+.tr > *{
+    border: 1px solid gray;
+    text-align: left;
+    padding: 5px 0 5px 5px;
+}
+
+.centerRow{
+    text-align: center;
+    padding-left: 0 !important;
+}
+
+.imgContiner{
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.imgContiner img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.icon{
+    cursor: pointer;
+}
+
+.updateIcon{
+    margin-right: 5px;
+}
+
+.updateIcon:hover {
+    color: blue;
+}
+
+.deleteIcon:hover {
+    color: red;
+}
