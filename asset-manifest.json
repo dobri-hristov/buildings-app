@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/buildings-app/static/css/main.a72ee7ce.chunk.css",
+    "main.css": "/buildings-app/static/css/main.0618ff1a.chunk.css",
     "main.js": "/buildings-app/static/js/main.a483bce5.chunk.js",
     "main.js.map": "/buildings-app/static/js/main.a483bce5.chunk.js.map",
     "runtime-main.js": "/buildings-app/static/js/runtime-main.ae8d7271.js",
@@ -8,14 +8,14 @@
     "static/js/2.97ac06c1.chunk.js": "/buildings-app/static/js/2.97ac06c1.chunk.js",
     "static/js/2.97ac06c1.chunk.js.map": "/buildings-app/static/js/2.97ac06c1.chunk.js.map",
     "index.html": "/buildings-app/index.html",
-    "static/css/main.a72ee7ce.chunk.css.map": "/buildings-app/static/css/main.a72ee7ce.chunk.css.map",
+    "static/css/main.0618ff1a.chunk.css.map": "/buildings-app/static/css/main.0618ff1a.chunk.css.map",
     "static/js/2.97ac06c1.chunk.js.LICENSE.txt": "/buildings-app/static/js/2.97ac06c1.chunk.js.LICENSE.txt",
     "static/media/cover.918e05b4.jpg": "/buildings-app/static/media/cover.918e05b4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae8d7271.js",
     "static/js/2.97ac06c1.chunk.js",
-    "static/css/main.a72ee7ce.chunk.css",
+    "static/css/main.0618ff1a.chunk.css",
     "static/js/main.a483bce5.chunk.js"
   ]
 }
